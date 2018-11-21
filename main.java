@@ -2,6 +2,6 @@ package main
 
 class Main {
     Main() {
-        System.out.println("Helloworld")
+        System.out.println("Helloworld aja")
     }
 }
